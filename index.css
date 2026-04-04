@@ -1,0 +1,16 @@
+#head2{
+    background-color: brown;
+}
+.head1{
+    background-color: orangered;
+}
+h4{
+    background-color: aqua;
+}
+*{
+    font-size: 15px;
+    text-align: center;
+}
+h6[value="5"]{
+    background-color: aqua;
+}

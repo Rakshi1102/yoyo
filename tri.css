@@ -1,0 +1,22 @@
+
+#name{
+    background-color: blue;
+}
+.h5{
+    background-color: burlywood;
+}
+.a{
+    background-color: chartreuse;
+}
+*{
+    font-size: xx-large;
+}
+p{
+    background-color: aqua;
+}
+h4[value="5"]{
+    background-color: cadetblue;
+}
+h1,h3,h6{
+    background-color: thistle;
+}

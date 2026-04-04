@@ -1,0 +1,167 @@
+
+ #box{
+       
+        height: 100px;
+        width: 100px;
+        background-color: brown;
+        display: inline-block;
+       
+    }
+    #circle{
+        
+        
+        height: 100px;
+        width: 100px;
+        background-color: aqua;
+        display: inline-block;
+      
+
+    }
+    #rectangle{
+        
+        text-decoration-color: azure;
+        height: 100px;
+        width: 100px;
+        background-color: rgb(211, 202, 202);
+        display: inline-block;
+       
+
+    }
+    
+    #square{
+        
+        height: 100px;
+        width: 100px;
+        background-color: blue;
+        display: inline-block;
+
+    }
+    #tri{
+        
+        height: 100px;
+        width: 100px;
+        background-color: chartreuse;
+        display: inline-block;
+       
+
+    }
+     #oval{
+       
+    
+        height: 100px;
+        width: 100px;
+        
+        
+        background-color: yellow;
+        display: inline-block;
+       
+    }
+    
+      #shape{
+        
+        height: 100px;
+        width: 100px;
+        background-color: coral;
+        display: inline-block;
+
+    }
+    #cone{
+        
+        height: 100px;
+        width: 100px;
+        background-color: springgreen;
+        display: inline-block;
+    
+    }
+    #rhombus{
+        
+        height: 100px;
+        width: 100px;
+        background-color: darkorange;
+        display: inline-block;
+       
+    }
+    #cyl{
+        height: 100px;
+        width: 100px;
+        background-color: hotpink;
+        display: inline-block;
+    }
+    .a{
+        height: 100px;
+        width: 100px;
+        border-radius: 50%;
+        background-color: aqua;
+        display: inline-block;
+
+    }
+    .b{
+        height: 100px;
+        width: 100px;
+        border-radius: 50%;
+        background-color: aquamarine;
+        display: inline-block;
+        
+    }
+    .c{
+        height: 100px;
+        width: 100px;
+        border-radius: 50%;
+        background-color: bisque;
+        display: inline-block;
+
+    }
+    .d{
+        height: 100px;
+        width: 100px;
+        border-radius: 50%;
+        background-color: crimson;
+        display: inline-block
+    }
+    .z{
+        height: 100px;
+        width: 100px;
+        border-radius: 50%;
+        background-color: burlywood;
+        display: inline-block;
+    }
+    .f{
+        height: 100px;
+        width: 100px;
+        border-radius: 50%;
+        background-color: cyan;
+        display: inline-block;
+
+    }
+    .g{
+        height: 100px;
+        width: 100px;
+        border-radius: 50%;
+        background-color: dodgerblue;
+        display: inline-block;
+
+    }
+    .h{
+        height: 100px;
+        width: 100px;
+        border-radius: 50%;
+        background-color: thistle;
+        display: inline-block;
+    }
+    .i{
+        height: 100px;
+        width: 100px;
+        border-radius: 50%;
+        background-color: slateblue;
+        display: inline-block;
+
+    }
+    .j{
+        height: 100px;
+        width: 100px;
+        border-radius: 50%;
+        background-color: rosybrown;
+        display: inline-block;
+    }
+    
+  
